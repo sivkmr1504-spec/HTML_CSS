@@ -4,3 +4,12 @@ h1{
     font-family: arial;
     text-align: center;
 }
+.one,.two,.three,.four,.five,.six,.seven{
+    font-family: arial;
+    font-size: 25px;
+    text-transform: uppercase;
+    background-color: grey;
+}
+.list{
+    margin-left: 20px;
+}
